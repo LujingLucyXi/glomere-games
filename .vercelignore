@@ -1,0 +1,6 @@
+tests/
+supabase/
+deploy_games.py
+README.md
+config.example.js
+.gitignore
